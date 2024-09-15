@@ -1,1 +1,1 @@
-This id a new Server!
+This is a new Server!
